@@ -1,24 +1,72 @@
-# 💻 I'm Walid
+<h1 align="center">Hi 👋, I'm Walid</h1>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidteh&show_icons=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=walidteh05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walidteh&layout=compact&theme=radical)
+---
 
-## 📖 Currently Learning
-- Full-stack development
-- AI & Machine Learning
+## 📊 GitHub Statistics
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/walidteh)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=walidteh05&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidteh05&layout=compact&theme=radical" />
+</p>
 
+---
 
-💻 Programming Languages
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> </p>
-✨ About Me
-💡 Passionate about coding and building innovative solutions.
-🌱 Always learning and improving my skills.
-💬 Open to collaborating on exciting projects!
-🌟 Thanks for Visiting!
-Feel free to connect or explore my projects. See you around! 😊
+## 🚀 Currently Learning
+
+- 🌐 Full-Stack Development
+- 🤖 AI & Machine Learning
+- ☁️ Cloud Computing
+- 📱 Mobile Application Development
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,kotlin,html,css,js,php,mysql,git,github,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,figma,postman,docker&theme=dark"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/walidteh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ✨ About Me
+
+- 💡 Passionate about coding and creating innovative solutions.
+- 🎓 Computer Engineering Student.
+- 🚀 Interested in Web Development, AI, IoT and Backend Development.
+- 🌱 Always learning new technologies.
+- 🤝 Open to collaboration on interesting projects.
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+<br>
+Have a great day! 😄
+</p>
