@@ -7,9 +7,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-> 🚧 GitHub Statistics will be available after I contribute more projects and GitHub statistics services are available.
 
 ---
 
