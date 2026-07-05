@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walid</h1>
 <h3 align="center">Computer Engineering | Full-Stack Developer | AI Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=walidteh05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
